@@ -1,6 +1,5 @@
 # Philo
-
-Philo is a terminal AI coding agent.
+a local coding-agent harness
 
 Install on macOS or Linux:
 
