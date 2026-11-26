@@ -1,4 +1,4 @@
-# Philo – A pure-Go coding agent harness with durable execution
+# Philo – A pure-Go coding agent with durable harness
 
 - **Pure-Go coding harness.** `philo-tui` ships as a single `philo` binary for macOS and Linux. A shared background daemon keeps sessions and submitted tasks running when you close the terminal UI.
 - **Remote work with Herdr.** Launch Philo in a Herdr workspace and see which agents are working or need your attention. Reconnect from another computer, phone, or tablet over SSH, including over Tailscale. Tap to select items or expand tool output, and swipe to scroll the conversation and results. [Herdr](https://herdr.dev/)
